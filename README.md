@@ -75,14 +75,42 @@ El sistema que se hará para manejar las campañas de SMS, puede ser extendido e
 1. ### A:
 
 - Honorarios: $1200
+- 4 lineas: $32
+- Saldo para lineas durante el desarrollo: $50
+- Configuracion de digital ocean: $80 (dos meses pagos)
+- Dominio: $60
+
+#### Total: $1422
 
 2. ### B:
 
 - Honorarios $900
+- 3cx Con hosting: $545
+- Dominio: $60
+- Saldo para lineas durante el desarrollo: $50
+- 4 lineas: $32
+
+#### Total: $1587
 
 3. ### C:
 
 - Honorarios $1200
+- Dominio: $60
+- Saldo para lineas durante el desarrollo: $50
+- Configuracion de digital ocean: $80 (dos meses pagos)
+- 4 lineas: $32
+
+#### Total: $ 1422
+
+4. Opcion D:
+
+- Honorarios $1200
+- Saldo para lineas durante el desarrollo: $50
+- Configuracion de digital ocean: $80 (dos meses pagos)
+- 4 lineas: $32
+- 3cx Con hosting: $545
+
+#### Total: $1967
 
 ### Tiempo estimado de desarrollo: 8 semanas.
 
